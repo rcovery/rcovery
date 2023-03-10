@@ -18,5 +18,5 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           max_post_count: 4
-          template: "$newline$randomEmoji(💯,🔥,💥,💘) [![$title](https://img.shields.io/badge/video-pink?style=flat)]($url)$newline"
+          template: "$newline$randomEmoji(💯,🔥,💥,💘) [![$title](https://img.shields.io/badge/video-pink?style=flat)]($url)"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnuPxF7zHu3564O8oagsPJA"
