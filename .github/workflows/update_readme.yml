@@ -1,0 +1,22 @@
+name: "Updating README informations"
+
+on:
+  push:
+  schedule:
+    - cron: "0 12 * * *"
+
+jobs:
+  get_youtube_info:
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.3.0
+
+      - name: Get YT videos
+        uses: gautamkrishnar/blog-post-workflow@1.8.2
+        with:
+          comment_tag_name: "YOUTUBE"
+          max_post_count: 4
+          template: "$randomEmoji(💯,🔥,💥,💘) [![$title](https://img.shields.io/badge/video-pink?style=flat)]($url)$newline"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnuPxF7zHu3564O8oagsPJA"
