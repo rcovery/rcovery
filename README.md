@@ -1,3 +1,5 @@
+<p align="center"><img src="/assets/constructor.gif" /><img src="/assets/underconstruction.gif" /></p>
+
 <h2 align="center">Hello Stranger!</h2>
 
 <p align="center"><img src="/assets/matrixcode.gif" /></p>
@@ -17,11 +19,12 @@
 </p>
 
 <!-- YOUTUBE:START -->
- * <img src='/assets/tiny_heart.gif' /> [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY) 
 
- * <img src='/assets/tiny_heart.gif' /> [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg) 
+- <img src='/assets/tiny_heart.gif' /> [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY)
 
- * <img src='/assets/tiny_heart.gif' /> [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4) 
+- <img src='/assets/tiny_heart.gif' /> [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg)
 
- * <img src='/assets/tiny_heart.gif' /> [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM) 
+- <img src='/assets/tiny_heart.gif' /> [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4)
+
+- <img src='/assets/tiny_heart.gif' /> [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM)
 <!-- YOUTUBE:END -->
