@@ -2,7 +2,7 @@
 
 <h2 align="center"><img src='/assets/tiny_heart.gif' /> Hello stranger! <img src='/assets/tiny_heart.gif' /></h2>
 
-<p align="center"><img src="/assets/faedivider.gif" /></p>
+<!-- <p align="center"><img src="/assets/faedivider.gif" /></p> -->
 <p align="center"><img src="/assets/matrixcode.gif" /></p>
 
 <p align="center">
@@ -41,13 +41,14 @@
 </p>
 
 <!-- YOUTUBE:START -->
- * [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY) 
 
- * [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg) 
+- [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY)
 
- * [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4) 
+- [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg)
 
- * [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM) 
+- [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4)
+
+- [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM)
 <!-- YOUTUBE:END -->
 
 <p align="center"><a href="https://linktr.ee/rcovery"><img title="Checkout my linktree!" src="/assets/earth.gif" /></a></p>
