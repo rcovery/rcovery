@@ -24,8 +24,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcovery&hide=html&layout=compact&hide_title=true&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,d442ed,61ed6f&theme=graywhite" />
 </p>
 
-<br />
-
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=770077&style=for-the-badge" />
     <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=880088&style=for-the-badge" />
