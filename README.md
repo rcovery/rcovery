@@ -41,14 +41,13 @@
 </p>
 
 <!-- YOUTUBE:START -->
+ * [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY) 
 
-- [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY)
+ * [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg) 
 
-- [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg)
+ * [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4) 
 
-- [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4)
-
-- [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM)
+ * [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM) 
 <!-- YOUTUBE:END -->
 
 <p align="center"><a href="https://linktr.ee/rcovery"><img title="Checkout my linktree!" src="/assets/earth.gif" /></a></p>
