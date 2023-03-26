@@ -1,5 +1,3 @@
-<p align="center"><img src="/assets/constructor.gif" /><img src="/assets/underconstruction.gif" /></p>
-
 <h2 align="center"><img src='/assets/tiny_heart.gif' /> Hello stranger! <img src='/assets/tiny_heart.gif' /></h2>
 
 <p align="center"><img src="/assets/faedivider.gif" /></p>
@@ -18,6 +16,10 @@
     <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=008800&style=for-the-badge" />
     <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=007700&style=for-the-badge" />
 </p>
+
+<p align="center"><i>Tenho uma quedinha em encontrar boas soluções para bons problemas! Trabalho com JavaScript desde 2020 (mais especificamente NextJS) e estou sempre expandindo meus conhecimentos para tirar o melhor proveito das ferramentas que utilizo, afinal, gosto de entender como as coisas funcionam por baixo dos panos.
+
+Tenho a música e a fotografia como hobby e estou sempre buscando juntar a arte com a tecnologia!</i></p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rcovery&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,61ed6f,d442ed&theme=graywhite" width="445" />
@@ -39,13 +41,14 @@
 </p>
 
 <!-- YOUTUBE:START -->
- * [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY) 
 
- * [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg) 
+- [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY)
 
- * [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4) 
+- [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg)
 
- * [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM) 
+- [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4)
+
+- [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM)
 <!-- YOUTUBE:END -->
 
 <p align="center"><a href="https://linktr.ee/rcovery"><img title="Checkout my linktree!" src="/assets/earth.gif" /></a></p>
