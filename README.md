@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=007700&style=for-the-badge" />
 </p>
 
-<i><p align="center">Tenho uma quedinha em encontrar boas soluções para bons problemas! Trabalho com JavaScript desde 2020 (mais especificamente NextJS) e estou sempre expandindo meus conhecimentos para tirar o melhor proveito das ferramentas que utilizo, afinal, gosto de entender como as coisas funcionam por baixo dos panos.</p>
+<i><p align="center">Trabalho com JavaScript desde 2020 (mais especificamente NextJS) e estou sempre expandindo meus conhecimentos para tirar o melhor proveito das ferramentas que utilizo, afinal, gosto de entender como as coisas funcionam por baixo dos panos.</p>
 
 <p align="center">Tenho a música e a fotografia como hobby e estou sempre buscando juntar a arte com a tecnologia!</p></i>
 
