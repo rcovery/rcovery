@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=007700&style=for-the-badge" />
 </p>
 
-<p align="center"><i>Tenho uma quedinha em encontrar boas soluções para bons problemas! Trabalho com JavaScript desde 2020 (mais especificamente NextJS) e estou sempre expandindo meus conhecimentos para tirar o melhor proveito das ferramentas que utilizo, afinal, gosto de entender como as coisas funcionam por baixo dos panos.
+<i><p align="center">Tenho uma quedinha em encontrar boas soluções para bons problemas! Trabalho com JavaScript desde 2020 (mais especificamente NextJS) e estou sempre expandindo meus conhecimentos para tirar o melhor proveito das ferramentas que utilizo, afinal, gosto de entender como as coisas funcionam por baixo dos panos.</p>
 
-Tenho a música e a fotografia como hobby e estou sempre buscando juntar a arte com a tecnologia!</i></p>
+<p align="center">Tenho a música e a fotografia como hobby e estou sempre buscando juntar a arte com a tecnologia!</p></i>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rcovery&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,61ed6f,d442ed&theme=graywhite" width="445" />
