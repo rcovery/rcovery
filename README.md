@@ -58,3 +58,5 @@
     <img src="/assets/badges/biologicalslicer.gif" />
     <img src="/assets/badges/lemondemon.gif" />
 </p>
+
+<h2 align="center"><img src='/assets/tiny_heart.gif' /> Is that all, stranger? <img src='/assets/tiny_heart.gif' /></h2>
