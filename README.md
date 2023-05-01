@@ -50,7 +50,7 @@
  * [Conseguindo acesso ao hackthebox](https://www.youtube.com/watch?v=MCqIKDEmogM) 
 <!-- YOUTUBE:END -->
 
-<p align="center"><a href="https://linktr.ee/rcovery"><img title="Checkout my linktree!" src="/assets/earth.gif" /></a></p>
+<p align="center"><a href="https://linktr.ee/rcovery"><img width="100px" height="100px" title="Checkout my linktree!" src="/assets/earth.gif" />My Linktree</a></p>
 
 <p align="center">
     <img src="/assets/badges/error.gif" />
