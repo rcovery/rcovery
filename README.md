@@ -17,7 +17,9 @@
     <img src="https://img.shields.io/static/v1?label=%20&message=%20&color=007700&style=for-the-badge" />
 </p>
 
-<i><p align="center">Trabalho com JavaScript desde 2020 e estou sempre expandindo meus conhecimentos para tirar o melhor proveito das ferramentas que utilizo, afinal, gosto de entender como as coisas funcionam por baixo dos panos.</p>
+<i><p align="center">Sou desenvolvedor backend e estou sempre expandindo meus conhecimentos! Gosto de entender como as coisas funcionam por baixo dos panos (afinal, sou hacker 😎).
+
+Atualmente estou focando meus estudos nos fundamentos da computação e na matemática.</p>
 
 <p align="center">Tenho a música e a fotografia como hobby e estou sempre buscando juntar a arte com a tecnologia!</p></i>
 
