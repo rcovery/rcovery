@@ -50,8 +50,6 @@
  * [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4) 
 <!-- YOUTUBE:END -->
 
-<p align="center"><a href="https://linktr.ee/rcovery"><img width="100px" height="100px" title="Checkout my linktree!" src="/assets/earth.gif" />My Linktree</a></p>
-
 <p align="center">
     <img src="/assets/badges/error.gif" />
     <img src="/assets/badges/digitalhardcore.gif" />
