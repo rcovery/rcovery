@@ -6,6 +6,7 @@
 
 <p align="center"><img src="/assets/faedivider.gif" /></p>
 
+<p align="center">
 <!-- YOUTUBE:START -->
  [Rinha de compiler em Elixir - [LiveCoding] [NoTalking]](https://www.youtube.com/watch?v=bM0zenEgnDM) 
 
@@ -13,5 +14,6 @@
 
  [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg) 
 <!-- YOUTUBE:END -->
+</p>
 
 <p align="center"><img src="/assets/badges/k5.gif" /><img src="/assets/badges/k6.gif" /><img src="/assets/badges/k15.gif" /></p>
