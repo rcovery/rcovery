@@ -15,3 +15,5 @@
 
  * [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4) 
 <!-- YOUTUBE:END -->
+
+<p align="center"><img src="/assets/badges/k5.gif" /><img src="/assets/badges/k6.gif" /><img src="/assets/badges/k15.gif" /></p>
