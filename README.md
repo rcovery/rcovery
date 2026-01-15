@@ -7,13 +7,11 @@
 <p align="center"><img src="/assets/faedivider.gif" /></p>
 
 <!-- YOUTUBE:START -->
- * [Rinha de compiler em Elixir - [LiveCoding] [NoTalking]](https://www.youtube.com/watch?v=bM0zenEgnDM) 
+ <p align="center">[Rinha de compiler em Elixir - [LiveCoding] [NoTalking]](https://www.youtube.com/watch?v=bM0zenEgnDM)</p> 
 
- * [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY) 
+ <p align="center">[JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY)</p> 
 
- * [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg) 
-
- * [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4) 
+ <p align="center">[JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg)</p> 
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="/assets/badges/k5.gif" /><img src="/assets/badges/k6.gif" /><img src="/assets/badges/k15.gif" /></p>
