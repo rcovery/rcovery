@@ -8,11 +8,11 @@
 
 <p align="center">
 <!-- YOUTUBE:START -->
- [Rinha de compiler em Elixir - [LiveCoding] [NoTalking]](https://www.youtube.com/watch?v=bM0zenEgnDM) 
+ <p align="center"><a href="https://www.youtube.com/watch?v=bM0zenEgnDM">Rinha de compiler em Elixir - [LiveCoding] [NoTalking]</p> 
 
- [JobFinder - Finishing Jora Integration #LiveCoding](https://www.youtube.com/watch?v=6u86J3-AAhY) 
+ <p align="center"><a href="https://www.youtube.com/watch?v=6u86J3-AAhY">JobFinder - Finishing Jora Integration #LiveCoding</p> 
 
- [JobFinder - Creating the project structure! #livecoding](https://www.youtube.com/watch?v=Eo_32t8ORBg) 
+ <p align="center"><a href="https://www.youtube.com/watch?v=Eo_32t8ORBg">JobFinder - Creating the project structure! #livecoding</p> 
 <!-- YOUTUBE:END -->
 </p>
 
