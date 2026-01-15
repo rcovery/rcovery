@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.2
         with:
           comment_tag_name: "YOUTUBE"
-          max_post_count: 4
-          template: "$newline * [$title]($url) $newline"
+          max_post_count: 3
+          template: "$newline <p align=\"center\">[$title]($url)</p> $newline"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnuPxF7zHu3564O8oagsPJA"
