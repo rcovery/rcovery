@@ -4,7 +4,7 @@
 
 <p align="center">Sempre busco entender como as coisas funcionam por baixo dos panos (afinal, sou hacker 😎), e atualmente estou focando meus estudos nos fundamentos da computação e na matemática.</p></i>
 
----
+<p align="center"><img src="/assets/faedivider.gif" /></p>
 
 <!-- YOUTUBE:START -->
  * [Rinha de compiler em Elixir - [LiveCoding] [NoTalking]](https://www.youtube.com/watch?v=bM0zenEgnDM) 
@@ -15,14 +15,3 @@
 
  * [[C++] Doing a binary search algorithm in LeetCode!](https://www.youtube.com/watch?v=BimGRxT6U_4) 
 <!-- YOUTUBE:END -->
-
----
-
-<p align="center">
-    <img src="/assets/badges/error.gif" />
-    <img src="/assets/badges/digitalhardcore.gif" />
-    <img src="/assets/badges/biologicalslicer.gif" />
-    <img src="/assets/badges/lemondemon.gif" />
-</p>
-
-<p align="center"><img src="/assets/faedivider.gif" /></p>
