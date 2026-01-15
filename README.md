@@ -1,8 +1,7 @@
 <p align="center"><img src="/assets/faedivider.gif" /></p>
 
-<i><p align="center">Iniciei minha carreira focado em segurança da informação, e após me aprofundar nesta área, migrei para desenvolvimento de software. Hoje em dia tenho a segurança da informação como alguns dos meus hobbies.</p>
-
-<p align="center">Sempre busco entender como as coisas funcionam por baixo dos panos (afinal, sou hacker 😎), e atualmente estou focando meus estudos nos fundamentos da computação e na matemática.</p></i>
+<i><p align="center">Desenvolvedor de Software com mais de 4 anos de experiência, atuação no setor de Fintech e um foco intenso em performance. Por ter uma base em Segurança da Informação, sempre busco entender os sistemas "por baixo dos panos", para construir arquiteturas que são não só rápidas, mas também robustas.</p>
+<p align="center">Atualmente, meu foco é total em Golang e arquitetura de backend. Estou direcionando minha carreira para me especializar na construção de serviços de baixa latência e alta concorrência.</p></i>
 
 <p align="center"><img src="/assets/faedivider.gif" /></p>
 
