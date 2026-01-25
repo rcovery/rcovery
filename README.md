@@ -1,5 +1,3 @@
-<p align="center"><img src="/assets/faedivider.gif" /></p>
-
 <i><p align="center">Desenvolvedor de Software com mais de 4 anos de experiência, atuação no setor de Fintech e um foco intenso em performance. Por ter uma base em Segurança da Informação, sempre busco entender os sistemas "por baixo dos panos", para construir arquiteturas que são não só rápidas, mas também robustas.</p>
 <p align="center">Atualmente, meu foco é total em Golang e arquitetura de backend. Estou direcionando minha carreira para me especializar na construção de serviços de baixa latência e alta concorrência.</p></i>
 
