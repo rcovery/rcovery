@@ -5,11 +5,11 @@
 
 <p align="center">
 <!-- YOUTUBE:START -->
+ <p align="center"><a href="https://www.youtube.com/watch?v=cz68PO0mlZg">creating a GOLANG side project</p> 
+
+ <p align="center"><a href="https://www.youtube.com/watch?v=moff2KmZSb4">Rinha de compiler em Elixir - [LiveCoding] [NoTalking]</p> 
+
  <p align="center"><a href="https://www.youtube.com/watch?v=bM0zenEgnDM">Rinha de compiler em Elixir - [LiveCoding] [NoTalking]</p> 
-
- <p align="center"><a href="https://www.youtube.com/watch?v=6u86J3-AAhY">JobFinder - Finishing Jora Integration #LiveCoding</p> 
-
- <p align="center"><a href="https://www.youtube.com/watch?v=Eo_32t8ORBg">JobFinder - Creating the project structure! #livecoding</p> 
 <!-- YOUTUBE:END -->
 </p>
 
