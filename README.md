@@ -5,9 +5,9 @@
 
 <p align="center">
 <!-- YOUTUBE:START -->
- <p align="center"><a href="https://www.youtube.com/watch?v=cz68PO0mlZg">creating a GOLANG side project</p> 
+ <p align="center"><a href="https://www.youtube.com/watch?v=02UDEaAnPi4">URL Shortener in Go: Integration Tests - 2</p> 
 
- <p align="center"><a href="https://www.youtube.com/watch?v=moff2KmZSb4">Rinha de compiler em Elixir - [LiveCoding] [NoTalking]</p> 
+ <p align="center"><a href="https://www.youtube.com/watch?v=cz68PO0mlZg">URL Shortener in Go: Integration Tests - 1</p> 
 
  <p align="center"><a href="https://www.youtube.com/watch?v=bM0zenEgnDM">Rinha de compiler em Elixir - [LiveCoding] [NoTalking]</p> 
 <!-- YOUTUBE:END -->
