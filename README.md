@@ -5,11 +5,11 @@
 
 <p align="center">
 <!-- YOUTUBE:START -->
+ <p align="center"><a href="https://www.youtube.com/watch?v=1IwTKspDEyA">URL Shortener in Go: Services - 3</p> 
+
  <p align="center"><a href="https://www.youtube.com/watch?v=02UDEaAnPi4">URL Shortener in Go: Integration Tests - 2</p> 
 
  <p align="center"><a href="https://www.youtube.com/watch?v=cz68PO0mlZg">URL Shortener in Go: Integration Tests - 1</p> 
-
- <p align="center"><a href="https://www.youtube.com/watch?v=bM0zenEgnDM">Rinha de compiler em Elixir - [LiveCoding] [NoTalking]</p> 
 <!-- YOUTUBE:END -->
 </p>
 
