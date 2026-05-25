@@ -1,6 +1,10 @@
-<i><p align="center"><!-- ABOUT:START --><!-- ABOUT:END --></p></i>
+<i><p><!-- ABOUT:START -->Software Developer with 5+ years of experience, with a background in Information Security, which led me to develop the habit of always seeking to understand systems "under the hood", allowing me to build architectures that are robust and resilient to failure.
 
-<p align="center"><!-- TECHSTACK:START --><!-- TECHSTACK:END --></p>
+Throughout my career, I have optimized databases, worked with event-driven architectures, and built systems from scratch that handle high transaction volumes and serve hundreds of clients in production.
+
+My current focus is specializing in building low-latency, high-concurrency services in technologies like Golang.<!-- ABOUT:END --></p></i>
+
+<p align="center"><!-- TECHSTACK:START -->Go (Golang), Node.js, JavaScript, TypeScript, PHP, Docker, Azure, AWS, PostgreSQL, MySQL, Redis, RabbitMQ<!-- TECHSTACK:END --></p>
 
 <p align="center"><img src="/assets/faedivider.gif" /></p>
 
